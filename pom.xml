@@ -35,4 +35,10 @@
         <liquibase-core.version>3.4.1</liquibase-core.version>
     </properties>
 
+    <distributionManagement>
+        <repository>
+            <id>rasputin-public-repository</id>
+            <url>file:///mnt/hdd/maven/public_repository</url>
+        </repository>
+    </distributionManagement>
 </project>
