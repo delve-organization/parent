@@ -44,11 +44,4 @@
             <url>file:///mnt/hdd/maven/public_repository</url>
         </repository>
     </distributionManagement>
-
-    <repositories>
-        <repository>
-            <id>rasputin-public-repository</id>
-            <url>http://rsptn.ddns.net:5550</url>
-        </repository>
-    </repositories>
 </project>
