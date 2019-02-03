@@ -36,6 +36,7 @@
         <jjwt.version>0.9.0</jjwt.version>
         <h2.version>1.4.197</h2.version>
         <liquibase-core.version>3.4.1</liquibase-core.version>
+        <mysql-connector-java.version>8.0.15</mysql-connector-java.version>
     </properties>
 
     <distributionManagement>
